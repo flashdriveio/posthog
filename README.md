@@ -10,6 +10,9 @@ PostHog provides open-source product analytics, built for developers. Automate t
 
 ## Quick Start
 
+Deploy from FlashDrive Marketplace 
+
+
 1-click Heroku deploy:
 
 <a href="https://heroku.com/deploy?template=https://github.com/posthog/posthog"><img src="https://www.herokucdn.com/deploy/button.svg" width="250px" /></a>
